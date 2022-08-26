@@ -1,0 +1,15 @@
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\bin\Debug\net6.0\git-master.exe
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\bin\Debug\net6.0\git-master.deps.json
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\bin\Debug\net6.0\git-master.runtimeconfig.json
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\bin\Debug\net6.0\git-master.dll
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\bin\Debug\net6.0\git-master.pdb
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\git-master.csproj.AssemblyReference.cache
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\git-master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\git-master.AssemblyInfoInputs.cache
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\git-master.AssemblyInfo.cs
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\git-master.csproj.CoreCompileInputs.cache
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\git-master.dll
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\refint\git-master.dll
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\git-master.pdb
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\git-master.genruntimeconfig.cache
+C:\Users\jack.rosandertangen\source\repos\git-master\git-master\obj\Debug\net6.0\ref\git-master.dll

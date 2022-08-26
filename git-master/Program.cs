@@ -4,8 +4,6 @@ int input;
 int numSum = 0 ;
 int numAmount = 0;
 
-
-
 do
 {
     Console.WriteLine("Skriv in ett heltal.");
@@ -15,8 +13,3 @@ do
 } while (input != 0);   numAmount--;
 
 Console.WriteLine("Totala summan av alla nummer " + numSum + "\nTotalt antal nummer " + numAmount);
-
-
-
-
-

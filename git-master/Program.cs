@@ -1,14 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Skriv en boolean.");
-string input;
+
+int input;
+int numSum = 0 ;
+int numAmount = 0;
+
+
+
 do
 {
-    input = Console.ReadLine();
-}while(input  == null);
+    Console.WriteLine("Skriv in ett heltal.");
+    input = Convert.ToInt32(Console.ReadLine());
+    numAmount++;
+    numSum += input; // Den räknar inte nollor oavsett, 1 + 0 = 1;
+} while (input != 0);   numAmount--;
 
-if (input.ToLower() == "true")
-    Console.Write("True");
-else if (input.ToLower() == "false")
-    Console.Write("False");
-else
-    Console.Write("Your input was not valid.");
+Console.WriteLine("Totala summan av alla nummer " + numSum + "\nTotalt antal nummer " + numAmount);
+
+
+
+
+

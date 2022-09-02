@@ -3,13 +3,13 @@
 int[] array = { 4, 6, 7, 1, 2, 9 };
 
 
-for(int i = 0; i < array.Length; i++)
+for(int i = 0; i < array.Length; i++) // iterera genom array
 {
     int swap = i;
 
     for (int j = 0; j < array.Length; j++)
     {
-        if (array[j] > array[swap])
+        if (array[j] > array[swap])  // KOlla om mindre
         {
             if (j < swap)
                 swap = j;
@@ -18,14 +18,14 @@ for(int i = 0; i < array.Length; i++)
 
     if (swap != i)
     {
-        int temp = array[swap];
+        int temp = array[swap];  // Swap array numbers
         array[swap] = array[i];
         array[i] = temp;
 
-        i = 0;
+        i = 0; // Reset array
     }
 }
-
+ // printa
 for(int i = 0; i < array.Length; i++)
 {
     Console.Write(array[i] + ", ");

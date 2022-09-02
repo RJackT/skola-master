@@ -1,22 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 int input;
-int numSum = 0 ;
-int numAmount = 0;
+
+Console.WriteLine("Please enter an integer.");
+
+input = Convert.ToInt16(Console.ReadLine());
 
 
-
-do
+if(input % 10 == 0)
 {
-    Console.WriteLine("Skriv in ett heltal.");
-    input = Convert.ToInt32(Console.ReadLine());
-    numAmount++;
-    numSum += input; // Den räknar inte nollor oavsett, 1 + 0 = 1;
-} while (input != 0);   numAmount--;
-
-Console.WriteLine("Totala summan av alla nummer " + numSum + "\nTotalt antal nummer " + numAmount);
-
-
-
-
+    Console.WriteLine("true");
+}
+else
+{
+    Console.WriteLine("False");
+}
 
